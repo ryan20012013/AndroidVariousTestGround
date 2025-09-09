@@ -6,8 +6,5 @@
 
     <!-- Rounded corners -->
     <corners
-        android:bottomLeftRadius="200dp"
-        android:bottomRightRadius="200dp"
-        android:topLeftRadius="200dp"
-        android:topRightRadius="200dp"/>
+        android:radius="200dp" />
 </shape>
