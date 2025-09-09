@@ -1,6 +1,6 @@
 This Branch is for show a inconsistency between different version of Android.
 The provided code initial commit provided the following 
-<img width="480" height="653" alt="Screenshot from 2025-09-09 19-59-54" src="https://github.com/user-attachments/assets/3d870570-3fa2-4bf0-8eb5-6b7b657b497b" /> <br/>
+<br/> <img width="480" height="653" alt="Screenshot from 2025-09-09 19-59-54" src="https://github.com/user-attachments/assets/3d870570-3fa2-4bf0-8eb5-6b7b657b497b" /> <br/>
 Although having clipChildren and ClipToOutline set, the child under the parent (grey rounded background) can exists outside of the parent.
 The problem lays on the usage of
     <corners
